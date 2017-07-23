@@ -29,4 +29,4 @@ Trifon - compiling with Maven Wrapper
 ./mvnw -f org.example.parent/pom.xml clean verify
 ```
 
-[http://www.eclipse.org/Xtext/documentation/](Xtext documentation)
+[Xtext documentation](http://www.eclipse.org/Xtext/documentation/)
